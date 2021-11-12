@@ -1,8 +1,9 @@
 # Vanessa D'Amario
 
-###Short bio 
+Bio 
 
 ## My vision
+
 
 <p align="center">
   <a href="https://vanessadamario.github.io/">
