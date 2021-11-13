@@ -7,7 +7,7 @@ Bio
 
 <p align="center">
   <a href="https://vanessadamario.github.io/">
-    <img src="assets/img/website_fig1.png" width="75%">
+    <img src="assets/img/website_fig1.png" width="100%">
   </a>
 </p>
 
