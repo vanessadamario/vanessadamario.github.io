@@ -2,7 +2,7 @@
 
 I am a postdoctoral researcher at Fujitsu and a visitor affiliate 
 at Massachusetts Institute of Technology (MIT) since November 2021. 
-I joined MIT first as a PhD visiting student, then as a postdoctoral researcher. 
+I joined MIT first as a PhD visiting student (December 2019 - March 2020), then as a postdoctoral researcher (April 2020 - October 2021). 
 I got a PhD in computer science in May 2020. I previously graduated in physics (2015) 
 and high energy physics (2016).
 
@@ -32,17 +32,17 @@ a large portion of the time I have been spending at MIT. Despite being fundament
 I see clearly how the questions I am addressing today will help to envisioning better and more equal algorithms for tomorrow.
 
 On the other hand, the use of computational methods in clinical neuroscience have represented an important part of my research interests.
-The reasons of my excitement here are two-folds: first, computational methods help to accelerate scientific discoveries, which 
-is quite amazing, given the complexity of the brain and how fascinating this organ is, second, findings in this context can
-help clinicians to make better assessment, supporting them in clinical decisions, and suggesting new research treatments.
-My work in this field has been mostly the fruit of the collaboration with the neurophysiologists at
+The reasons of my excitement here are two-fold: first, computational methods help to accelerate scientific discoveries, which 
+is quite amazing, given the complexity of the brain and how fascinating this organ is. Then, clinical findings 
+help doctors in decision making and might guide to new research treatments.
+My work in this field has been mostly being possible thanks to the collaboration with neurophysiologists at
 Ospedale Pediatrico Istituto Giannina Gaslini di Genova 
 https://www.gaslini.org/ (Genoa, Italy), one of the most prominent research centers and children clinics in Europe.
 In this context, I see computational tools and ML as a great opportunity to actively help society and improve people's lives.
 
 In the following there more broadly and concisely a map that motivates in my opinion the research in intelligence. 
 I see at least three main motivations that drive this research, and I am curious of the many more that you can think of!
-All of them have strong intersections and provide inspirations and tools to one another.
+All of them have strong intersections and provide inspirations and solutions to one another.
 
 <p align="center">
   <a href="https://vanessadamario.github.io/">
