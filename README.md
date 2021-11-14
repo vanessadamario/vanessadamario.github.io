@@ -14,17 +14,10 @@ available only to a very restricted set of people. I want to work towards the go
 technologies accessible to anyone.
 In this regard, many reasons make me believe that the research I am doing today is going in the right direction.
 
-<p align="center">
-  <a href="https://vanessadamario.github.io/">
-    <img src="assets/img/website_fig1.png" width="100%">
-  </a>
-</p>
-
 To be more specific, I have been working at the edge of Machine Learning (ML) research  
-and computational tools for neuroscience (clinical research). In describing my contribution to these two,
-I will start by defining their current limitations.
+and computational tools for neuroscience (clinical research).
 
-For what regards ML, too often ML methods are inaccessible to many. 
+What motivates my research in ML is that too often ML methods are inaccessible to many. 
 Training such methods require high computational resources and very large amount of data, which not everyone has access to,
 especially in countries with low income and poor research investments. 
 Even when both are available, as it is often the case in Western countries, 
@@ -34,18 +27,29 @@ In addition to this, data distribution shifts might reduce the predictive power 
 one used at training. All these factors reduce the usability of many ML methods. 
 On purposely, I have not mentioned any specific application, because this holds for any dataset
 coming from a data population with limited variety.
-
 Fighting against such limitations and evaluating strategies to overcome poor predictive performance due to bias have constituted
 a large portion of the time I have been spending at MIT. Despite being fundamental research in ML, 
-I see the questions I am addressing today might help to envisioning better and more equal algorithms for tomorrow.
+I see clearly how the questions I am addressing today will help to envisioning better and more equal algorithms for tomorrow.
 
-
-On the other hand, the use of computational methods in neuroscience to accelerate scientific discoveries have represented
-an important goal in my research. Those have been mostly the fruit of the collaboration with the neurophysiologists at
+On the other hand, the use of computational methods in clinical neuroscience have represented an important part of my research interests.
+The reasons of my excitement here are two-folds: first, computational methods help to accelerate scientific discoveries, which 
+is quite amazing, given the complexity of the brain and how fascinating this organ is, second, findings in this context can
+help clinicians to make better assessment, supporting them in clinical decisions, and suggesting new research treatments.
+My work in this field has been mostly the fruit of the collaboration with the neurophysiologists at
 Ospedale Pediatrico Istituto Giannina Gaslini di Genova 
 https://www.gaslini.org/ (Genoa, Italy), one of the most prominent research centers and children clinics in Europe.
-When I look at this work and the research questions posed by neurologists, I see computational tools and ML as a 
-great resource and opportunity to actively help society and improve people's lives.
+In this context, I see computational tools and ML as a great opportunity to actively help society and improve people's lives.
+
+In the following there more broadly and concisely a map that motivates in my opinion the research in intelligence. 
+I see at least three main motivations that drive this research, and I am curious of the many more that you can think of!
+All of them have strong intersections and provide inspirations and tools to one another.
+
+<p align="center">
+  <a href="https://vanessadamario.github.io/">
+    <img src="assets/img/website_fig1.png" width="100%">
+  </a>
+</p>
+
 
 ## Projects
 
