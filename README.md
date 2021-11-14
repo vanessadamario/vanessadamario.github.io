@@ -70,7 +70,7 @@ was unknown. What we found is that the presence of such unnecessary dimensions h
 leading to a degradation. This finding can have important connection to attention and biological mechanisms as the fovea, 
 and leads to the hypothesis that those might be the reason of higher data efficiency in humans.
 
-**Phasic REM and its suppressive role on interictal spikes in Electrical Status Epilepticus during Sleep**
+**Phasic REM and its suppressive role on interictal spikes in Electrical Status Epilepticus during Sleep.**
 Electrical Status Epilepticus during Sleep (ESES) is a rare form of epilepsy that affect children and leads to severe 
 cognitive decline over the years. It consists in an abundant presence of high intensity epileptic activity which manifest 
 during sleep. Some forms of epilepsy benefit from phasic REM (a micro-state of REM sleep), since this sleeping stage inhibits the 
