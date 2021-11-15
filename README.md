@@ -6,6 +6,12 @@ I joined MIT first as a PhD visiting student (December 2019 - March 2020), then 
 I got a PhD in computer science in May 2020 from Università degli Studi di Genova (Genoa, Italy). I previously graduated in physics (2015) 
 and high energy physics (2016) at the Università degli Studi di Genova.
 
+<p align="center">
+  <a href="https://vanessadamario.github.io/">
+    <img src="personal/img/vanessa.jpg" width="50%">
+  </a>
+</p>
+
 ## My vision
 
 The main goal of my career path is to build knowledge and instruments that contribute to improve humanity. 
@@ -19,7 +25,7 @@ To be more specific, I have been working at the edge of Machine Learning (ML) re
 What motivates my research in ML is that too often ML methods are inaccessible to many. 
 In most of the cases, training such methods require high computational resources and very large amount of data, which not everyone has access to,
 especially in countries with low income and poor research investments. 
-Even when both are available, as it is often the case in Western countries, 
+Even when resources are available, as it is often the case in Western countries, 
 ML methods might suffer from bias. Due to the nature of current ML methods and their scarce interpretability,
 this bias is hardly traceable to some factor in the data. 
 In addition to this, data distribution shifts might reduce the predictive power of such tools on different populations than the
