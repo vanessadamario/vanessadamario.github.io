@@ -19,7 +19,7 @@
     from epilepsy to pediatric endocrinology.
   </p>
   <p class="small">
-    Assistant Professor, Nova Southeastern University · Former Postdoctoral Researcher, MIT & Fujitsu
+    Assistant Professor in Decision Sciences, H. Wayne Huizenga College of Business and Entrepreneurship, Nova Southeastern University · Former Postdoctoral Researcher, MIT & Fujitsu
   </p>
 </div>
 
