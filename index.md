@@ -74,7 +74,7 @@
   <div class="card">
     <h3>Previously Taught</h3>
     <ul>
-      {% for c in site.data.new_courses %}
+      {% for c in site.data.old_courses %}
         <li><strong>{{ c.name }}</strong> — {{ c.note }}</li>
       {% endfor %}
     </ul>
