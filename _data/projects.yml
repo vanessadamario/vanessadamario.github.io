@@ -1,16 +1,21 @@
 
 - title: AI for Pediatric Endocrinology
-  summary: Using small medical LLMs to assist providers in Type 1 Diabetes management, focusing on safety, bias, and evaluation.
+  summary: Using small open-source medical LLMs to assist providers in Type 1 Diabetes management, focusing on safety, bias, and evaluation.
   links:
-    - { label: "Overview", url: "#" }
-    - { label: "Code", url: "https://github.com/vanessadamario" }
+    - { label: "preprint coming", url: "-" }
+    - { label: "Code", url: "https://github.com/vanessadamario/SmallMedLLMs-PedEndo" }
 
-- title: Digital Health in Global Missions
+- title: Digital Health in Global Medical Missions
   summary: Designing interoperable systems to digitalize care delivery in Jamaica and the Galápagos using REDCap and pragmatic AI.
   links:
-    - { label: "Project notes", url: "#" }
+   # - { label: "Project notes", url: "#" }
 
 - title: Bias & Generalization in ML
   summary: Evaluating robustness and data efficiency under distribution shifts, modularity in NMNs, and unnecessary input dimensions.
   links:
-    - { label: "NeurIPS paper", url: "#" }
+    - { label: "Modularity and Systematic Generalization - NeurIps 2021", url: "https://proceedings.neurips.cc/paper_files/paper/2021/file/c467978aaae44a0e8054e174bc0da4bb-Paper.pdf" }
+    - { label: "Data Efficiency and Unnecessary Dimensions - Frontiers 2022", url: "https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2022.760085/full" }
+    - { label: "Transformer Module Networks and Systematic Generalization - PAMI IEEE 2024", url: "https://ieeexplore.ieee.org/abstract/document/10628017"}
+    - { label: "Data Diversity Design for Systematic Generalization - Transactions in ML 2024", url: "https://openreview.net/forum?id=ZAin13msOp"}
+
+
