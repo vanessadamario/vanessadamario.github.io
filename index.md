@@ -56,7 +56,7 @@
 
 <div class="section">
   <h2>Publications</h2>
-  <p class="small">Check here l <a href="{{ site.profile_links.scholar }}" target="_blank">Google Scholar</a>.</p>
+  <p class="small">Check here for updated list <a href="{{ site.profile_links.scholar }}" target="_blank">Google Scholar</a>.</p>
 </div>
 
 <hr class="soft"/>
