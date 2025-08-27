@@ -1,11 +1,11 @@
 
 title: "Vanessa D’Amario"
-description: "AI × Healthcare · Global Health · Trustworthy ML"
+description: "AI × Healthcare · Global Health · Trustworthy ML · Test ML"
 url: "https://vanessadamario.github.io"
 theme: minima
 author:
   name: "Vanessa D’Amario"
-  email: "vanessa.damario@nova.edu"
+  email: "vdamario@nova.edu"
   avatar: "/assets/img/vanessa.png"
 
 # Easy-to-edit profile links (fill these in once and the site updates everywhere)
@@ -14,7 +14,7 @@ profile_links:
   scholar: "https://scholar.google.com/"  # replace with your Scholar profile link
   github: "https://github.com/vanessadamario"
   linkedin: "https://www.linkedin.com/"   # replace with your LinkedIn
-  email: "mailto:vanessa.damario@nova.edu"
+  email: "mailto:vdamario@nova.edu"
 
 # Build settings
 markdown: kramdown
