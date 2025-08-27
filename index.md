@@ -1,8 +1,5 @@
 
 ---
-layout: home
-title: "Vanessa D’Amario"
----
 
 <div class="hero" style="text-align:center">
   <img src="{{ site.author.avatar | relative_url }}" alt="Vanessa D’Amario" />
