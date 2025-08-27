@@ -1,8 +1,5 @@
-
----
-
 <div class="hero" style="text-align:center">
-  <img src="{{ site.author.avatar | relative_url }}" alt="Vanessa D’Amario" />
+  <img src="{{ site.author.avatar | relative_url }}" alt="Vanessa D’Amario" width="180">
   <h1>{{ site.title }}</h1>
   <div class="links">
     <a href="{{ site.profile_links.cv | relative_url }}" class="button">CV</a>
@@ -33,7 +30,7 @@
   </p>
   <ul>
     <li>Generalization across populations and data distributions</li>
-    <li>Digital health for <em>low-resource settings</em> (Jamaica, Galápagos)</li>
+    <li>Digital health for <em>low-resource settings</em> (Galápagos Islands, Jamaica)</li>
     <li>Bias-aware, transparent tools that support clinical decision-making</li>
   </ul>
 </div>
