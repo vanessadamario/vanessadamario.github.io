@@ -7,7 +7,7 @@
 
 - title: Digital Health in Global Medical Missions
   summary: Designing interoperable systems to digitalize care delivery in Jamaica and the Galápagos using REDCap and pragmatic AI.
-  links:
+  # links:
    # - { label: "Project notes", url: "#" }
 
 - title: Bias & Generalization in ML
