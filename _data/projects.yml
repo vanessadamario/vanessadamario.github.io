@@ -1,0 +1,16 @@
+
+- title: AI for Pediatric Endocrinology
+  summary: Using small medical LLMs to assist providers in Type 1 Diabetes management, focusing on safety, bias, and evaluation.
+  links:
+    - { label: "Overview", url: "#" }
+    - { label: "Code", url: "https://github.com/vanessadamario" }
+
+- title: Digital Health in Global Missions
+  summary: Designing interoperable systems to digitalize care delivery in Jamaica and the Galápagos using REDCap and pragmatic AI.
+  links:
+    - { label: "Project notes", url: "#" }
+
+- title: Bias & Generalization in ML
+  summary: Evaluating robustness and data efficiency under distribution shifts, modularity in NMNs, and unnecessary input dimensions.
+  links:
+    - { label: "NeurIPS paper", url: "#" }
