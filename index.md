@@ -55,19 +55,8 @@
 <hr class="soft"/>
 
 <div class="section">
-  <h2>Selected Publications</h2>
-  {% for pub in site.data.publications limit:6 %}
-    <div class="card">
-      <h3>{{ pub.title }}</h3>
-      <p class="small">{{ pub.authors }} ({{ pub.year }}). <em>{{ pub.venue }}</em></p>
-      <p class="small">
-        {% if pub.pdf %}<a href="{{ pub.pdf }}" target="_blank">PDF</a>{% endif %}
-        {% if pub.arxiv %}{% if pub.pdf %} · {% endif %}<a href="{{ pub.arxiv }}" target="_blank">arXiv</a>{% endif %}
-        {% if pub.doi %}{% if pub.pdf or pub.arxiv %} · {% endif %}<a href="{{ pub.doi }}" target="_blank">DOI</a>{% endif %}
-      </p>
-    </div>
-  {% endfor %}
-  <p class="small">Full list on <a href="{{ site.profile_links.scholar }}" target="_blank">Google Scholar</a>.</p>
+  <h2>Publications</h2>
+  <p class="small">Check here l <a href="{{ site.profile_links.scholar }}" target="_blank">Google Scholar</a>.</p>
 </div>
 
 <hr class="soft"/>
