@@ -73,14 +73,17 @@
 <hr class="soft"/>
 
 <div class="section">
-  <h2>Talks & Teaching</h2>
+  <h2>Teaching</h2>
   <div class="card">
-    {% for t in site.data.talks %}
-      <p><strong>{{ t.title }}</strong> — {{ t.event }} ({{ t.year }}){% if t.link %} · <a href="{{ t.link }}" target="_blank">link</a>{% endif %}</p>
-    {% endfor %}
+    <h3>Current Courses</h3>
+    <ul>
+      {% for c in site.data.courses %}
+        <li><strong>{{ c.name }}</strong> — {{ c.note }}</li>
+      {% endfor %}
+    </ul>
   </div>
   <div class="card">
-    <h3>Courses</h3>
+    <h3>Former Courses</h3>
     <ul>
       {% for c in site.data.courses %}
         <li><strong>{{ c.name }}</strong> — {{ c.note }}</li>
