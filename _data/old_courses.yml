@@ -1,0 +1,15 @@
+
+- name: "AI for Healthcare (MI 6428)"
+  note: "Graduate course in HI · Machine Learning Applications and Hands-on Practice on Clinical Data"
+
+- name: "Methods of Healthcare Data Analytics (MI 6430)"
+  note: "Graduate course in HI · Hands-on Experience in Data Analytics"
+
+- name: "Health Informatics Seminars (BSHI 3005)"
+  note: "Undergraduate course in HI · Talks and Real-World Experience in the Field of HI"
+
+- name: "Health Informatics Practicum I (BSHI 4007)"
+  note: "Undergraduate course in HI · Hands-on Experience in Data Analytics with Python"
+
+- name: "Health Informatics Practicum II (BSHI 4008)"
+  note: "Undergraduate course in HI · Applications of Data Analytics in the Healthcare Field"
