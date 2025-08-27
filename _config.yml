@@ -1,6 +1,6 @@
 
 title: "Vanessa D’Amario"
-description: "AI × Healthcare · Global Health · Trustworthy ML · Test ML"
+description: "AI × Healthcare · Global Health · Trustworthy ML"
 url: "https://vanessadamario.github.io"
 theme: minima
 author:
@@ -11,9 +11,9 @@ author:
 # Easy-to-edit profile links (fill these in once and the site updates everywhere)
 profile_links:
   cv: "/cv.pdf"                           # add cv.pdf at repo root when ready
-  scholar: "https://scholar.google.com/"  # replace with your Scholar profile link
+  scholar: "https://scholar.google.com/citations?user=vFwd8YoAAAAJ&hl=en/"  # replace with your Scholar profile link
   github: "https://github.com/vanessadamario"
-  linkedin: "https://www.linkedin.com/"   # replace with your LinkedIn
+  linkedin: "https://www.linkedin.com/in/vanessa-d-amario-81b0b1184/"   # replace with your LinkedIn
   email: "mailto:vdamario@nova.edu"
 
 # Build settings
@@ -28,6 +28,6 @@ plugins:
 minima:
   social_links:
     - { platform: github,  user_url: "https://github.com/vanessadamario" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/" }
-    - { platform: google_scholar, user_url: "https://scholar.google.com/" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/vanessa-d-amario-81b0b1184/" }
+    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=vFwd8YoAAAAJ&hl=en/" }
 show_excerpts: false
