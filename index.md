@@ -1,5 +1,5 @@
 <div class="hero" style="text-align:center">
-  <img src="{{ site.author.avatar | relative_url }}" alt="Vanessa D’Amario" width="90">
+  <img src="{{ site.author.avatar | relative_url }}" alt="Vanessa D’Amario" width="180">
   <h1>{{ site.title }}</h1>
   <div class="links">
     <a href="{{ site.profile_links.cv | relative_url }}" class="button">CV</a>
@@ -75,17 +75,17 @@
 <div class="section">
   <h2>Teaching</h2>
   <div class="card">
-    <h3>Current Courses</h3>
+    <h3>Current</h3>
     <ul>
-      {% for c in site.data.courses %}
+      {% for c in site.data.new_courses %}
         <li><strong>{{ c.name }}</strong> — {{ c.note }}</li>
       {% endfor %}
     </ul>
   </div>
   <div class="card">
-    <h3>Former Courses</h3>
+    <h3>Previously Taught</h3>
     <ul>
-      {% for c in site.data.courses %}
+      {% for c in site.data.new_courses %}
         <li><strong>{{ c.name }}</strong> — {{ c.note }}</li>
       {% endfor %}
     </ul>
