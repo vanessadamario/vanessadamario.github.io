@@ -9,7 +9,7 @@ author:
 
 # Easy-to-edit profile links (fill these in once and the site updates everywhere)
 profile_links:
-  cv: "/cv.pdf"                           # add cv.pdf at repo root when ready
+  cv: ""                                  # add cv.pdf at repo root when ready
   scholar: "https://scholar.google.com/citations?user=vFwd8YoAAAAJ&hl=en/"  # replace with your Scholar profile link
   github: "https://github.com/vanessadamario"
   linkedin: "https://www.linkedin.com/in/vanessa-d-amario-81b0b1184/"   # replace with your LinkedIn
