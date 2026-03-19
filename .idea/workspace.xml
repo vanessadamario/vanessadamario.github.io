@@ -4,9 +4,84 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1e8f8e9-1ba6-442a-867c-3fe86c98540a" name="Changes" comment="editing">
+    <list default="true" id="b1e8f8e9-1ba6-442a-867c-3fe86c98540a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/baguetteBox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/isotope-docs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/AjaxLoader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/about-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/blog1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/blog2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/blog3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/contact-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/dan-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/ficon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/footer-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/gallery/emp-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/gallery/emp-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/gallery/emp-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/gallery/emp-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/gallery/emp-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/gallery/emp-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/gallery/emp-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/gallery/emp-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/gallery/emp-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/gallery/emp-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/gallery/emp-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/gallery/emp-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/grabbing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/header2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/header4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/loading-cylon-red.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logo.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logo/logo_png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logo_.tiff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/services-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/services-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/team-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/team-img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/team-img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/team-img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/team-img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/baguetteBox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/creative.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/isotope-docs.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery.easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery.fittext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery.nicescroll.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/owl-carousel/AjaxLoader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/owl-carousel/grabbing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/owl-carousel/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/owl-carousel/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/owl-carousel/owl.theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets_/img/photos-screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets_/img/website_fig1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets_/img/website_fig1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/photos-screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/website_fig1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/website_fig1.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +98,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/_config.yml" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="20pjN5dX4rP68QS4EgabVc3qVnJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -51,7 +129,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1636748380484</updated>
-      <workItem from="1636748385722" duration="17612000" />
+      <workItem from="1636748385722" duration="23563000" />
     </task>
     <task id="LOCAL-00001" summary="editing">
       <created>1636753661401</created>
@@ -109,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636987672204</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="editing">
+      <created>1637013450837</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1637013450838</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
