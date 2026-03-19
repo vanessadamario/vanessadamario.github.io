@@ -35,8 +35,12 @@
           <h1>{{ site.title }}</h1>
           <p class="lede">{{ site.description }}</p>
           <p class="intro">
-            Assistant Professor in Decision Sciences at Nova Southeastern University, building
-            trustworthy and accessible machine learning systems for medicine.
+            Assistant Professor in Decision Sciences at Nova Southeastern University, affiliated
+            with the Department of Medical Education in the Dr. Kiran C. Patel College of
+            Allopathic Medicine, an
+            <a href="https://cra.org/crn/2026/03/cra-announces-25-faculty-selected-as-nsf-nairr-ai-education-fellows/" target="_blank" rel="noreferrer">NSF NAIRR AI Education Fellow</a>,
+            and serving as an Associate Editor for
+            <a href="https://aaai.org/magazine/" target="_blank" rel="noreferrer">AI Magazine</a>.
           </p>
           <div class="cta-row">
             {% if site.profile_links.cv and site.profile_links.cv != '' %}
@@ -57,9 +61,10 @@
           </div>
           <ul class="hero-badges" aria-label="Research interests">
             <li>Trustworthy ML</li>
-            <li>Clinical AI</li>
+            <li>Pediatric Endocrinology AI</li>
+            <li>Medical Education</li>
             <li>Global Digital Health</li>
-            <li>Bias and Generalization</li>
+            <li>NSF NAIRR Fellow</li>
           </ul>
         </div>
         <div class="hero-card">
@@ -68,8 +73,8 @@
             <p class="card-label">Current Focus</p>
             <h2>Tools that support care, not just prediction</h2>
             <p>
-              Research spanning pediatric endocrinology, medical LLM evaluation, and digital
-              health systems for low-resource clinical settings.
+              Research spanning pediatric endocrinology, medical LLM evaluation, medical
+              education, and digital health systems for low-resource clinical settings.
             </p>
           </div>
         </div>
@@ -80,18 +85,24 @@
       <div class="shell section-grid">
         <div>
           <p class="section-tag">About</p>
-          <h2>Building clinically grounded AI with real-world constraints in mind.</h2>
+          <h2>From physics to clinically grounded AI.</h2>
         </div>
         <div class="stack">
           <p>
-            I work at the intersection of machine learning, healthcare, and global health,
-            designing robust models and decision-support systems that remain useful across
-            populations, institutions, and data conditions.
+            I graduated in physics at the University of Genova, Italy, completed my master's
+            there in physics, and earned my PhD in computer science in May 2020.
           </p>
           <p>
-            My background spans signal processing, computational neuroscience, and applied ML,
-            with projects ranging from epilepsy research to pediatric endocrinology and
-            interoperable care workflows in Jamaica and the Galapagos Islands.
+            During my PhD, I was a visiting PhD student at MIT. I later joined MIT and Fujitsu
+            Research of America for postdoctoral research focused on machine learning,
+            systematic generalization, and robust AI.
+          </p>
+          <p>
+            Today I work at the intersection of machine learning, healthcare, medical
+            education, and global health, with projects spanning pediatric endocrinology,
+            clinical AI evaluation, and interoperable care workflows in Jamaica and the
+            Galapagos Islands. I am also part of the inaugural
+            <a href="https://cra.org/crn/2026/03/cra-announces-25-faculty-selected-as-nsf-nairr-ai-education-fellows/" target="_blank" rel="noreferrer">NSF NAIRR AI Education Fellows cohort</a>.
           </p>
         </div>
       </div>
@@ -100,17 +111,27 @@
         <article class="panel">
           <p class="panel-kicker">Research Themes</p>
           <ul class="clean-list">
-            <li>Generalization across populations and distribution shifts</li>
-            <li>Bias-aware evaluation of medical AI systems</li>
+            <li>Pediatric endocrinology and medical LLM evaluation</li>
+            <li>Generalization, robustness, and bias-aware AI</li>
             <li>Digital health infrastructure for low-resource settings</li>
           </ul>
         </article>
         <article class="panel">
-          <p class="panel-kicker">Collaborative Style</p>
+          <p class="panel-kicker">Appointments & Recognition</p>
           <ul class="clean-list">
-            <li>Clinically informed problem framing</li>
-            <li>Practical deployment and workflow awareness</li>
-            <li>Transparent, reproducible experimentation</li>
+            <li>Affiliate, Department of Medical Education, Dr. Kiran C. Patel College of Allopathic Medicine</li>
+            <li><a href="https://cra.org/crn/2026/03/cra-announces-25-faculty-selected-as-nsf-nairr-ai-education-fellows/" target="_blank" rel="noreferrer">NSF NAIRR AI Education Fellow</a>, 2026-2027</li>
+            <li>Associate Editor, <a href="https://aaai.org/magazine/" target="_blank" rel="noreferrer">AI Magazine</a></li>
+            <li>Interdisciplinary work across medicine, business, and computing</li>
+          </ul>
+        </article>
+        <article class="panel">
+          <p class="panel-kicker">Outside Work</p>
+          <ul class="clean-list">
+            <li>Running</li>
+            <li>Hiking</li>
+            <li>Traveling</li>
+            <li>Outdoors</li>
           </ul>
         </article>
       </div>
@@ -150,6 +171,11 @@
           <div>
             <p class="section-tag">Publications</p>
             <h2>Selected work</h2>
+            <p class="section-note">
+              Selected work from Google Scholar, with recent pediatric endocrinology
+              collaborations foregrounded. Additional collaborative studies are currently under
+              submission.
+            </p>
           </div>
           {% if site.profile_links.scholar and site.profile_links.scholar != '' %}
             <a class="text-link" href="{{ site.profile_links.scholar }}" target="_blank" rel="noreferrer">View full publication list</a>
@@ -160,7 +186,13 @@
           {% for publication in site.data.publications %}
             <article class="publication">
               <p class="publication-meta">{{ publication.venue }} · {{ publication.year }}</p>
-              <h3>{{ publication.title }}</h3>
+              <h3>
+                {% if publication.link and publication.link != '' %}
+                  <a href="{{ publication.link }}" target="_blank" rel="noreferrer">{{ publication.title }}</a>
+                {% else %}
+                  {{ publication.title }}
+                {% endif %}
+              </h3>
               <p>{{ publication.authors }}</p>
               {% assign has_pub_links = false %}
               {% if publication.pdf and publication.pdf != '' %}{% assign has_pub_links = true %}{% endif %}
@@ -219,7 +251,13 @@
             <div class="talk-list">
               {% for talk in site.data.talks %}
                 <div class="talk-item">
-                  <strong>{{ talk.title }}</strong>
+                  <strong>
+                    {% if talk.link and talk.link != '' %}
+                      <a href="{{ talk.link }}" target="_blank" rel="noreferrer">{{ talk.title }}</a>
+                    {% else %}
+                      {{ talk.title }}
+                    {% endif %}
+                  </strong>
                   <span>{{ talk.event }} · {{ talk.year }}</span>
                 </div>
               {% endfor %}

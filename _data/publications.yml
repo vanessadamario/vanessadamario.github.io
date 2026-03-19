@@ -1,40 +1,54 @@
 
-- title: "How Modular Should Neural Module Networks Be for Systematic Generalization?"
-  authors: "D’Amario V., Sasaki T., Boix X."
-  venue: "NeurIPS"
-  year: 2021
+- title: "Measuring Stability Beyond Accuracy in Small Open-Source Medical Large Language Models for Pediatric Endocrinology"
+  authors: "D'Amario V., Daniel R., Zanetti A., Edamadaka D., Alaparthy N., Tarkoff J."
+  venue: "47th Workshop on Reproducible AI (AAAI)"
+  year: 2026
+  link: "https://www.arxiv.org/pdf/2601.11567"
+  pdf: ""
+  arxiv: "https://www.arxiv.org/pdf/2601.11567"
+  doi: ""
+
+- title: "Utilization and Perception of Generative Artificial Intelligence by Medical Students in Residency Applications"
+  authors: "Smith B., Ramadoss T., D'Amario V., Shoja M. M., Rajput V., Cervantes J."
+  venue: "Journal of Investigative Medicine"
+  year: 2025
+  link: ""
   pdf: ""
   arxiv: ""
   doi: ""
 
-- title: "The Foes of Neural Network’s Data Efficiency Among Unnecessary Input Dimensions"
-  authors: "D’Amario V., Srivastava S., Sasaki T., Boix X."
-  venue: "Under review"
-  year: 2021
+- title: "Transformer Module Networks for Systematic Generalization in Visual Question Answering"
+  authors: "Yamada M., D'Amario V., Takemoto K., Boix X., Sasaki T."
+  venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+  year: 2024
+  link: "https://doi.org/10.1109/TPAMI.2024.3438887"
   pdf: ""
   arxiv: ""
-  doi: ""
+  doi: "https://doi.org/10.1109/TPAMI.2024.3438887"
 
-- title: "Frivolous Units: Wider Networks Are Not Really That Wide"
-  authors: "Casper S., Boix X., D’Amario V., Guo L., Schrimpf M., Vinken K., Kreiman G."
-  venue: "AAAI"
-  year: 2020
+- title: "D3: Data Diversity Design for Systematic Generalization in Visual Question Answering"
+  authors: "Rahimi A., D'Amario V., Yamada M., Takemoto K., Sasaki T., Boix X."
+  venue: "Transactions on Machine Learning Research"
+  year: 2024
+  link: "https://openreview.net/forum?id=ZAin13msOp"
   pdf: ""
-  arxiv: ""
+  arxiv: "https://openreview.net/forum?id=ZAin13msOp"
   doi: ""
 
 - title: "On the Role of REM Sleep Microstructure in Suppressing Interictal Spikes in Electrical Status Epilepticus during Sleep"
-  authors: "Giacomini T., Luria G., D’Amario V., et al."
-  venue: "Under review"
-  year: 2021
+  authors: "Giacomini T., Luria G., D'Amario V., Croci C., Cataldi M., Piai M., Nobile G., Bruni O., Consales A., Mancardi M. M., Nobili L."
+  venue: "Clinical Neurophysiology"
+  year: 2022
+  link: ""
   pdf: ""
   arxiv: ""
-  doi: ""
+  doi: "https://doi.org/10.1016/j.clinph.2022.01.008"
 
-- title: "Machine Learning for Understanding Focal Epilepsy"
-  authors: "D’Amario V."
-  venue: "PhD Dissertation, Università degli Studi di Genova"
-  year: 2020
-  pdf: ""
+- title: "How Modular Should Neural Module Networks Be for Systematic Generalization?"
+  authors: "D'Amario V., Sasaki T., Boix X."
+  venue: "NeurIPS"
+  year: 2021
+  link: "https://proceedings.neurips.cc/paper_files/paper/2021/file/c467978aaae44a0e8054e174bc0da4bb-Paper.pdf"
+  pdf: "https://proceedings.neurips.cc/paper_files/paper/2021/file/c467978aaae44a0e8054e174bc0da4bb-Paper.pdf"
   arxiv: ""
   doi: ""
