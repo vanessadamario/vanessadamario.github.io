@@ -4,7 +4,6 @@ url: "https://vanessadamario.github.io"
 theme: minima
 author:
   name: "Vanessa D’Amario"
-  email: "vdamario@nova.edu"
   avatar: "/assets/img/vanessa.png"
 
 # Easy-to-edit profile links (fill these in once and the site updates everywhere)
@@ -13,7 +12,6 @@ profile_links:
   scholar: "https://scholar.google.com/citations?user=vFwd8YoAAAAJ&hl=en/"  # replace with your Scholar profile link
   github: "https://github.com/vanessadamario"
   linkedin: "https://www.linkedin.com/in/vanessa-d-amario-81b0b1184/"   # replace with your LinkedIn
-  email: "mailto:vdamario@nova.edu"
 
 # Build settings
 markdown: kramdown
